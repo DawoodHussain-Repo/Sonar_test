@@ -1,0 +1,6 @@
+projectKey=HMS_2
+serverUrl=http://localhost:9000
+serverVersion=24.12.0.100206
+dashboardUrl=http://localhost:9000/dashboard?id=HMS_2
+ceTaskId=ed4d4e87-3a17-4fc5-84f5-b1ff76a5f7bc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=ed4d4e87-3a17-4fc5-84f5-b1ff76a5f7bc
